@@ -1,4 +1,4 @@
-learn git begin!
+learn git begin! in time
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
